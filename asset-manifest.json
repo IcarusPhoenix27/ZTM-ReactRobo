@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ZTM-ReactRobo/static/css/main.83db730e.css",
+    "main.js": "/ZTM-ReactRobo/static/js/main.97ef5815.js",
+    "static/js/787.280fbbab.chunk.js": "/ZTM-ReactRobo/static/js/787.280fbbab.chunk.js",
+    "static/media/SEGA.woff": "/ZTM-ReactRobo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ZTM-ReactRobo/index.html",
+    "main.83db730e.css.map": "/ZTM-ReactRobo/static/css/main.83db730e.css.map",
+    "main.97ef5815.js.map": "/ZTM-ReactRobo/static/js/main.97ef5815.js.map",
+    "787.280fbbab.chunk.js.map": "/ZTM-ReactRobo/static/js/787.280fbbab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83db730e.css",
+    "static/js/main.97ef5815.js"
+  ]
+}
